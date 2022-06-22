@@ -1,0 +1,13 @@
+info: 19-05-2022 23:49:14: 	{
+  day: 1,
+  employees: [
+    {
+      empId: new ObjectId("6286a806212c705acafad7a7"),
+      status: 'timed',
+      _id: new ObjectId("6286ad4af8a101a2c0395dd9")
+    }
+  ],
+  _id: new ObjectId("6286ad4af8a101a2c0395dd8"),
+  createdAt: 2022-05-19T20:49:14.933Z,
+  updatedAt: 2022-05-19T20:49:14.933Z
+}

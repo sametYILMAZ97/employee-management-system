@@ -1,0 +1,7 @@
+info: 19-05-2022 23:52:55: 	{
+  year_month: 2022-01-01T00:00:00.000Z,
+  days: [ new ObjectId("6286ad4af8a101a2c0395dd8") ],
+  _id: new ObjectId("6286ae2704e3f423d80931bb"),
+  createdAt: 2022-05-19T20:52:55.622Z,
+  updatedAt: 2022-05-19T20:52:55.622Z
+}

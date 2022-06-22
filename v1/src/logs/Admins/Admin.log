@@ -1,0 +1,30 @@
+info: 19-05-2022 23:14:11: 	{
+  name: 'testName',
+  email: 'test1@mail.com',
+  password: '79664b3493e2143f26f25009cab49f5d01c80bdbfe695999db7512766284bf8c',
+  employees: [],
+  categories: 'HeadManager',
+  _id: new ObjectId("6286a51393d7f0b28ec374bd"),
+  createdAt: 2022-05-19T20:14:11.190Z,
+  updatedAt: 2022-05-19T20:14:11.190Z
+}
+info: 19-05-2022 23:15:53: 	{
+  name: 'testName',
+  email: 'test1@mail.com',
+  password: '79664b3493e2143f26f25009cab49f5d01c80bdbfe695999db7512766284bf8c',
+  employees: [],
+  categories: 'HeadManager',
+  _id: new ObjectId("6286a57942b755ab9c663865"),
+  createdAt: 2022-05-19T20:15:53.536Z,
+  updatedAt: 2022-05-19T20:15:53.536Z
+}
+info: 19-05-2022 23:16:57: 	{
+  name: 'testName',
+  email: 'test1@mail.com',
+  password: '79664b3493e2143f26f25009cab49f5d01c80bdbfe695999db7512766284bf8c',
+  employees: [],
+  categories: 'HeadManager',
+  _id: new ObjectId("6286a5b910dd066d445109bf"),
+  createdAt: 2022-05-19T20:16:57.055Z,
+  updatedAt: 2022-05-19T20:16:57.055Z
+}

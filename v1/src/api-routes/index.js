@@ -1,0 +1,6 @@
+module.exports.AdminRoutes = require('./Admin')
+module.exports.AttendanceRoutes = require('./Attendance')
+module.exports.AttendanceDayRoutes = require('./AttendanceDay')
+module.exports.EmployeeRoutes = require('./Employee')
+module.exports.SalaryRoutes = require('./Salary')
+module.exports.WorkRoutes = require('./Work')

@@ -1,0 +1,10 @@
+info: 19-05-2022 23:56:21: 	{
+  date: 2022-01-15T00:00:00.000Z,
+  employee: new ObjectId("6286a806212c705acafad7a7"),
+  salary: 4111,
+  month: 2022-01-01T00:00:00.000Z,
+  type: 'basic',
+  _id: new ObjectId("6286aef5387b99025c39c913"),
+  createdAt: 2022-05-19T20:56:21.951Z,
+  updatedAt: 2022-05-19T20:56:21.951Z
+}
